@@ -46,17 +46,20 @@ print("{:.2f}".format(b))
 
 ### 1-Norm of a Matrix
 <br>
-<br>  ![alt text](image-1.png)
+
+![alt text](image-1.png)
 <br>
 
 ### 2-Norm of a Matrix
 <br>
-<br>![alt text](image-2.png)
+
+![alt text](image-2.png)
 <br>
 
 ### Infinity Norm of a Matrix
 <br>
-<br> ![alt text](image-3.png)
+
+![alt text](image-3.png)
 <br>
 
 ## Result
